@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'GOAH-M Test' target in the 'GOAH-M Test' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
